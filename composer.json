@@ -1,0 +1,28 @@
+{
+	 "name":				"openlss/func-time"
+	,"homepage":			"http://openlss.org"
+	,"description":			"Time helper functions"
+	,"license":				"LGPLv2"
+	,"type":				"library"
+	,"keywords": [
+		 "time"
+		,"age"
+		,"hours ago"
+		,"future age"
+	]
+	,"authors": [
+		 {
+			 "name":		"Bryan Tong"
+			,"email":		"contact@nullivex.com"
+			,"homepage":	"http://bryantong.com"
+		}
+		,{
+			 "name":		"Tony Butler"
+			,"email":		"spudz76@gmail.com"
+			,"homepage":	"http://openlss.org"
+		}
+	]
+	,"require": {
+		 "php":					">=5.3.2"
+	}
+}

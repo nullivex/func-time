@@ -6,8 +6,6 @@ Date and Time functions
 Usage
 ----
 ```php
-ld('func/time');
-
 $timestamp = time()-3600;
 $ago = age($timestamp); //returns 1 hour
 
